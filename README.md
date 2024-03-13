@@ -1,10 +1,7 @@
-# Windows-Activator
+# Windows-11-Activator
 
 ## Supported Versions.
-- Windows 10 Home.
-- Windows 10 Professional.
-- Windows 10 Enterprise, Enterprise LISB.
-- Windows 10 Education.
+- Windows 11 Home.
 
 ## How to use ?
 - Clone or download the repository and unzip it into your PC.
